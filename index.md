@@ -14,7 +14,7 @@ title: "Package listing"
 If you are aware of any GAP package repositories not listed below, please
 let us know so that we can add them.
 
-### GAP packages hosted on GitHub
+### GAP packages hosted in the gap-packages organization on GitHub
 
 <ul>
 {% for repository in site.github.public_repositories %}
