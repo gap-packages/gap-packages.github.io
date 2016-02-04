@@ -27,6 +27,9 @@ let us know so that we can add them.
 ### GAP packages hosted elsewhere on GitHub
 
 * [fga](https://github.com/chsievers/fga)
+* [The homalg project](http://homalg-project.github.io/) hosts all their projects on GitHub.
+  * [List of deposited homalg packages](http://homalg-project.github.io/homalg_project/)
+  * Additional homalg packages can be found at the [homalg organization at GitHub](https://github.com/homalg-project)
 
 ### GAP packages hosted on Bitbucket
 
