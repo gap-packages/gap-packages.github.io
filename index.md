@@ -15,28 +15,13 @@ let us know so that we can add them.
 
 ## GAP packages hosted on GitHub
 
-* [anupq](https://github.com/gap-packages/anupq)
-* [cvec](https://github.com/gap-packages/cvec)
-* [ferret](https://github.com/gap-packages/ferret)
-* [float](https://github.com/gap-packages/float)
-* [fr](https://github.com/gap-packages/fr)
-* [genss](https://github.com/gap-packages/genss)
-* [gpd](https://github.com/gap-packages/gpd)
-* [idrel](https://github.com/gap-packages/idrel)
-* [images](https://github.com/gap-packages/images)
-* [img](https://github.com/gap-packages/img)
-* [io](https://github.com/gap-packages/io)
-* [json](https://github.com/gap-packages/json)
-* [kan](https://github.com/gap-packages/kan)
-* [nq](https://github.com/gap-packages/nq)
-* [orb](https://github.com/gap-packages/orb)
-* [polenta](https://github.com/gap-packages/polenta)
-* [qpa](https://github.com/gap-packages/qpa)
-* [recog](https://github.com/gap-packages/recog)
-* [recogbase](https://github.com/gap-packages/recogbase)
-* [sgpdec](https://github.com/gap-packages/sgpdec)
-* [SingularInterface](https://github.com/gap-packages/SingularInterface)
-* [xmod](https://github.com/gap-packages/xmod)
+<ul>
+{% for repository in site.github.public_repositories %}
+{% if repository.name == "gap-packages.github.io" %}{% continue %}{% endif %}
+{% if repository.name == "jupyter-gap" %}{% continue %}{% endif %}
+<li><a href="{{ repository.html_url }}">{{ repository.name }}</a></li>
+{% endfor %}
+</ul>
 
 ## GAP packages hosted elsewhere on GitHub
 
