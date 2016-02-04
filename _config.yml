@@ -1,0 +1,6 @@
+title: "GAP packages"
+baseurl: "/"
+url: "http://gap-packages.github.io"
+
+markdown: kramdown
+highlighter: rouge
