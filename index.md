@@ -2,19 +2,19 @@
 layout: default
 title: "Package listing"
 ---
-# GAP project links
+## GAP project links
 
 * [The GAP homepage](http://www.gap-system.org/)
 * The [GAP organization at GitHub](https://github.com/gap-system) and its [website](https://gap-system.github.io).
 * The [GAP packages organization at GitHub](https://github.com/gap-packages)
 * The [GAP organization at BitBucket](https://bitbucket.org/gap-system/)
 
-# Links to package repositories
+## Links to package repositories
 
 If you are aware of any GAP package repositories not listed below, please
 let us know so that we can add them.
 
-## GAP packages hosted on GitHub
+### GAP packages hosted on GitHub
 
 <ul>
 {% for repository in site.github.public_repositories %}
@@ -24,11 +24,11 @@ let us know so that we can add them.
 {% endfor %}
 </ul>
 
-## GAP packages hosted elsewhere on GitHub
+### GAP packages hosted elsewhere on GitHub
 
 * [fga](https://github.com/chsievers/fga)
 
-## GAP packages hosted on Bitbucket
+### GAP packages hosted on Bitbucket
 
 * [4ti2gap](https://bitbucket.org/gap-system/4ti2gap)
 * [hecke](https://bitbucket.org/gap-system/hecke)
