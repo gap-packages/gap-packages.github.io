@@ -34,6 +34,7 @@ let us know so that we can add them.
   * [List of deposited homalg packages](http://homalg-project.github.io/homalg_project/)
   * Additional homalg packages can be found at the [homalg organization at GitHub](https://github.com/homalg-project)
 * [IRREDSOL](https://github.com/bh11/irredsol)
+* [matgrp](https://github.com/hulpke/matgrp/)
 * [PatternClass](https://github.com/ruthhoffmann/PatternClass) ([Homepage](http://ruthhoffmann.github.io/PatternClass/))
 * [simpcomp](https://github.com/simpcomp-team/simpcomp):  A GAP package for working with simplicial complexes
 
