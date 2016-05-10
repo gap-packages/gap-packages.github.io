@@ -44,6 +44,5 @@ let us know so that we can add them.
 * [digraphs](https://bitbucket.org/james-d-mitchell/digraphs)
 * [hecke](https://bitbucket.org/gap-system/hecke)
 * [numericalsgps](https://bitbucket.org/gap-system/numericalsgps)
-* [semigroups](https://bitbucket.org/james-d-mitchell/semigroups)
 * [unitlib](https://bitbucket.org/gap-system/unitlib)
 * [wedderga](https://bitbucket.org/gap-system/wedderga)
