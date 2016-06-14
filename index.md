@@ -41,7 +41,6 @@ let us know so that we can add them.
 ### GAP packages hosted on Bitbucket
 
 * [4ti2gap](https://bitbucket.org/gap-system/4ti2gap)
-* [digraphs](https://bitbucket.org/james-d-mitchell/digraphs)
 * [hecke](https://bitbucket.org/gap-system/hecke)
 * [numericalsgps](https://bitbucket.org/gap-system/numericalsgps)
 * [unitlib](https://bitbucket.org/gap-system/unitlib)
