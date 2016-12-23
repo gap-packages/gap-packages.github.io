@@ -18,5 +18,5 @@ fi
 # Make an empty commit, push it, then remove it again immediately
 git commit -m 'rebuild pages' --allow-empty
 git push
-git reset --hard head^
+git reset --hard HEAD^
 git push --force
