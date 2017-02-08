@@ -29,7 +29,7 @@ let us know so that we can add them.
 
 * [CRISP](https://github.com/bh11/crisp): GAP package CRISP
 * [fga](https://github.com/chsievers/fga):  The FGA package for the GAP system
-* [GUAVA](https://github.com/osj1961/guava): GAP package guava - performs computations relative to error-correcting codes in GAP.
+* [GAPDoc](https://github.com/frankluebeck/GAPDoc): A package to generate documentation for GAP
 * [The homalg project](http://homalg-project.github.io/) hosts all their projects on GitHub.
   * [List of deposited homalg packages](http://homalg-project.github.io/homalg_project/)
   * Additional homalg packages can be found at the [homalg organization at GitHub](https://github.com/homalg-project)
