@@ -46,3 +46,7 @@ let us know so that we can add them.
 * [numericalsgps](https://bitbucket.org/gap-system/numericalsgps)
 * [unitlib](https://bitbucket.org/gap-system/unitlib)
 * [wedderga](https://bitbucket.org/gap-system/wedderga)
+
+---
+
+<small><em>Last updated: {{ 'now' | date: "%Y-%m-%d %H:%M" }}</em></small>
