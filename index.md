@@ -44,8 +44,6 @@ let us know so that we can add them.
 * [4ti2gap](https://bitbucket.org/gap-system/4ti2gap)
 * [hecke](https://bitbucket.org/gap-system/hecke)
 * [numericalsgps](https://bitbucket.org/gap-system/numericalsgps)
-* [unitlib](https://bitbucket.org/gap-system/unitlib)
-* [wedderga](https://bitbucket.org/gap-system/wedderga)
 
 ---
 
