@@ -40,10 +40,6 @@ let us know so that we can add them.
 * [simpcomp](https://github.com/simpcomp-team/simpcomp):  A GAP package for working with simplicial complexes
 * [transgrp](https://github.com/hulpke/transgrp): GAP Transitive Groups Library
 
-### GAP packages hosted on Bitbucket
-
-* [hecke](https://bitbucket.org/gap-system/hecke)
-
 ---
 
 <small><em>Last updated: {{ 'now' | date: "%Y-%m-%d %H:%M" }}</em></small>
