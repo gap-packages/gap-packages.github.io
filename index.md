@@ -33,11 +33,12 @@ let us know so that we can add them.
 * [The homalg project](http://homalg-project.github.io/) hosts all their projects on GitHub.
   * [List of deposited homalg packages](http://homalg-project.github.io/homalg_project/)
   * Additional homalg packages can be found at the [homalg organization at GitHub](https://github.com/homalg-project)
-* [The CAP project](http://homalg-project.github.io/CAP_project/): The GAP package CAP and packages using it.
-* [IRREDSOL](https://github.com/bh11/irredsol)
-* [matgrp](https://github.com/hulpke/matgrp/)
-* [PatternClass](https://github.com/ruthhoffmann/PatternClass) ([Homepage](http://ruthhoffmann.github.io/PatternClass/))
+* [The CAP project](http://homalg-project.github.io/CAP_project/): The GAP package CAP and packages using it
+* [IRREDSOL](https://github.com/bh11/irredsol): A library of irreducible soluble linear groups over finite fields and of finite primivite soluble groups
+* [matgrp](https://github.com/hulpke/matgrp/): Matric Group Interface Routines
+* [PatternClass](https://github.com/ruthhoffmann/PatternClass) ([Homepage](http://ruthhoffmann.github.io/PatternClass/)): A permutation pattern class package
 * [simpcomp](https://github.com/simpcomp-team/simpcomp):  A GAP package for working with simplicial complexes
+* [transgrp](https://github.com/hulpke/transgrp): GAP Transitive Groups Library
 
 ### GAP packages hosted on Bitbucket
 
