@@ -41,7 +41,6 @@ let us know so that we can add them.
 
 ### GAP packages hosted on Bitbucket
 
-* [4ti2gap](https://bitbucket.org/gap-system/4ti2gap)
 * [hecke](https://bitbucket.org/gap-system/hecke)
 
 ---
