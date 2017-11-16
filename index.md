@@ -39,6 +39,12 @@ let us know so that we can add them.
 * [simpcomp](https://github.com/simpcomp-team/simpcomp):  A GAP package for working with simplicial complexes
 * [transgrp](https://github.com/hulpke/transgrp): GAP Transitive Groups Library
 
+### GAP packages hosted outside GitHub
+
+* [FinInG](https://bitbucket.org/jdebeule/fining): Finite Incidence Geometry
+* [Forms](https://bitbucket.org/jdebeule/forms): Sesquilinear and Quadratic forms
+
+
 ---
 
 <small><em>Last updated: {{ 'now' | date: "%Y-%m-%d %H:%M" }}</em></small>
