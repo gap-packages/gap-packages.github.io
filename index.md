@@ -28,7 +28,8 @@ let us know so that we can add them.
 ### GAP packages hosted elsewhere on GitHub
 
 * [CRISP](https://github.com/bh11/crisp): GAP package CRISP
-* [fga](https://github.com/chsievers/fga):  The FGA package for the GAP system
+* [FGA](https://github.com/chsievers/fga):  Free Group Algorithms
+* [EDIM](https://github.com/frankluebeck/EDIM): Elementary Divisors of Integer Matrices
 * [GAPDoc](https://github.com/frankluebeck/GAPDoc): A package to generate documentation for GAP
 * [The homalg project](http://homalg-project.github.io/) hosts all their projects on GitHub.
   * [List of deposited homalg packages](http://homalg-project.github.io/homalg_project/)
