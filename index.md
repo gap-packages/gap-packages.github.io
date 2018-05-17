@@ -39,6 +39,7 @@ let us know so that we can add them.
 * [matgrp](https://github.com/hulpke/matgrp/): Matric Group Interface Routines
 * [simpcomp](https://github.com/simpcomp-team/simpcomp):  A GAP package for working with simplicial complexes
 * [transgrp](https://github.com/hulpke/transgrp): GAP Transitive Groups Library
+* [YAGS](https://github.com/yags/yags): YAGS - Yet Another Graph System
 
 ### GAP packages hosted outside GitHub
 
