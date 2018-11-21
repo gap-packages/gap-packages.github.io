@@ -41,7 +41,6 @@ let us know so that we can add them.
 * [MajoranaAlgebras](https://github.com/MWhybrow92/MajoranaAlgebras): A package for constructing Majorana algebras and representations
 * [matgrp](https://github.com/hulpke/matgrp/): Matric Group Interface Routines
 * [simpcomp](https://github.com/simpcomp-team/simpcomp):  A GAP package for working with simplicial complexes
-* [Thelma](https://github.com/vlaver/Thelma): A package on threshold elements
 * [transgrp](https://github.com/hulpke/transgrp): GAP Transitive Groups Library
 * [YAGS](https://github.com/yags/yags): YAGS - Yet Another Graph System
 
