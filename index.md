@@ -37,9 +37,10 @@ let us know so that we can add them.
   * Additional homalg packages can be found at the [homalg organization at GitHub](https://github.com/homalg-project)
 * [The CAP project](http://homalg-project.github.io/CAP_project/): The GAP package CAP and packages using it
 * [IRREDSOL](https://github.com/bh11/irredsol): A library of irreducible soluble linear groups over finite fields and of finite primivite soluble groups
-* [JupyterVis](https://github.com/nathancarter/jupyterviz): Visualization tools for Jupyter Notebooks using GAP kernels 
+* [JupyterViz](https://github.com/nathancarter/jupyterviz): Visualization tools for Jupyter Notebooks using GAP kernels 
 * [matgrp](https://github.com/hulpke/matgrp/): Matric Group Interface Routines
 * [simpcomp](https://github.com/simpcomp-team/simpcomp):  A GAP package for working with simplicial complexes
+* [Thelma](https://github.com/vlaver/Thelma): A package on threshold elements
 * [transgrp](https://github.com/hulpke/transgrp): GAP Transitive Groups Library
 * [YAGS](https://github.com/yags/yags): YAGS - Yet Another Graph System
 
