@@ -19,7 +19,9 @@ let us know so that we can add them.
 <ul>
 {% for repository in site.github.public_repositories %}
 {% if repository.name == "gap-packages.github.io" %}{% continue %}{% endif %}
+{% if repository.name == "happrime" %}{% continue %}{% endif %}
 {% if repository.name == "jupyter-gap" %}{% continue %}{% endif %}
+{% if repository.name == "recogbase" %}{% continue %}{% endif %}
 <li><a href="{{ repository.html_url }}">{{ repository.name }}</a>{% if repository.homepage %}{% if repository.homepage != "" %} (<a href="{{ repository.homepage }}">Homepage</a>){% endif %}{% endif %}:
 {{ repository.description }}</li>
 {% endfor %}
