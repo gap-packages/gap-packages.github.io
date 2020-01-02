@@ -4,7 +4,7 @@ title: "Package listing"
 ---
 ## GAP project links
 
-* [The GAP homepage](http://www.gap-system.org/)
+* [The GAP homepage](https://www.gap-system.org/)
 * The [GAP organization at GitHub](https://github.com/gap-system) and its [website](https://gap-system.github.io).
 * The [GAP packages organization at GitHub](https://github.com/gap-packages)
 * The [GAP organization at BitBucket](https://bitbucket.org/gap-system/)
@@ -32,10 +32,10 @@ let us know so that we can add them.
 * [FGA](https://github.com/chsievers/fga):  Free Group Algorithms
 * [FSR](https://nzidaric.github.io/fsr): Feedback Shift Register Package
 * [GAPDoc](https://github.com/frankluebeck/GAPDoc): A package to generate documentation for GAP
-* [The homalg project](http://homalg-project.github.io/) hosts all their projects on GitHub.
-  * [List of deposited homalg packages](http://homalg-project.github.io/homalg_project/)
+* [The homalg project](https://homalg-project.github.io/) hosts all their projects on GitHub.
+  * [List of deposited homalg packages](https://homalg-project.github.io/homalg_project/)
   * Additional homalg packages can be found at the [homalg organization at GitHub](https://github.com/homalg-project)
-* [The CAP project](http://homalg-project.github.io/CAP_project/): The GAP package CAP and packages using it
+* [The CAP project](https://homalg-project.github.io/CAP_project/): The GAP package CAP and packages using it
 * [IRREDSOL](https://github.com/bh11/irredsol): A library of irreducible soluble linear groups over finite fields and of finite primivite soluble groups
 * [JupyterViz](https://github.com/nathancarter/jupyterviz): Visualization tools for Jupyter Notebooks using GAP kernels
 * [MajoranaAlgebras](https://github.com/MWhybrow92/MajoranaAlgebras): A package for constructing Majorana algebras and representations
