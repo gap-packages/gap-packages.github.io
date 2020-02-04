@@ -28,7 +28,7 @@ let us know so that we can add them.
 </ul>
 
 ### GAP packages hosted elsewhere on GitHub
-
+* [COCO2P](https://github.com/chpech/COCO2P): GAP-package for the computation with coherent configurations
 * [CRISP](https://github.com/bh11/crisp): GAP package CRISP
 * [EDIM](https://github.com/frankluebeck/EDIM): Elementary Divisors of Integer Matrices
 * [FGA](https://github.com/chsievers/fga):  Free Group Algorithms
