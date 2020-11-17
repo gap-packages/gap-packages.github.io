@@ -30,6 +30,7 @@ let us know so that we can add them.
 ### GAP packages hosted elsewhere on GitHub
 * [COCO2P](https://github.com/chpech/COCO2P): GAP-package for the computation with coherent configurations
 * [CRISP](https://github.com/bh11/crisp): GAP package CRISP
+* [Digraphs](https://digraphs.github.io/Digraphs): Graphs, digraphs, and multidigraphs in GAP
 * [EDIM](https://github.com/frankluebeck/EDIM): Elementary Divisors of Integer Matrices
 * [FGA](https://github.com/chsievers/fga):  Free Group Algorithms
 * [FSR](https://nzidaric.github.io/fsr): Feedback Shift Register Package
@@ -45,6 +46,7 @@ let us know so that we can add them.
 * [MajoranaAlgebras](https://github.com/MWhybrow92/MajoranaAlgebras): A package for constructing Majorana algebras and representations
 * [matgrp](https://github.com/hulpke/matgrp/): Matric Group Interface Routines
 * [Posets](https://github.com/isadofschi/posets): GAP Package for posets and finite spaces
+* [Semigroups](https://semigroups.github.io/Semigroups): A package for semigroups and monoids
 * [semigroupviz](https://github.com/nathancarter/semigroupviz): Visualization tools for semigroups in GAP
 * [simpcomp](https://github.com/simpcomp-team/simpcomp):  A GAP package for working with simplicial complexes
 * [SmallCancellation](https://github.com/isadofschi/smallcancellation): Metric and nonmetric small cancellation conditions
