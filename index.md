@@ -51,6 +51,7 @@ let us know so that we can add them.
 * [simpcomp](https://github.com/simpcomp-team/simpcomp):  A GAP package for working with simplicial complexes
 * [SmallCancellation](https://github.com/isadofschi/smallcancellation): Metric and nonmetric small cancellation conditions
 * [transgrp](https://github.com/hulpke/transgrp): GAP Transitive Groups Library
+* [TwistedConjugacy](https://github.com/sTertooy/TwistedConjugacy): Computation with twisted conjugacy classes
 * [YAGS](https://github.com/yags/yags): YAGS - Yet Another Graph System
 
 ### GAP packages hosted outside GitHub
