@@ -57,8 +57,6 @@ let us know so that we can add them.
 ### GAP packages hosted outside GitHub
 
 * [FinInG](https://bitbucket.org/jdebeule/fining): Finite Incidence Geometry
-* [Forms](https://bitbucket.org/jdebeule/forms): Sesquilinear and Quadratic forms
-
 
 ---
 
