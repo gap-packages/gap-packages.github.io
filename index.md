@@ -28,6 +28,7 @@ let us know so that we can add them.
 </ul>
 
 ### GAP packages hosted elsewhere on GitHub
+* [BruhatDecomposition](https://github.com/danielrademacher/BruhatDecomposition2): Computes the Bruhat decomposition of matrices in classical groups
 * [COCO2P](https://github.com/chpech/COCO2P): GAP-package for the computation with coherent configurations
 * [CRISP](https://github.com/bh11/crisp): GAP package CRISP
 * [Digraphs](https://digraphs.github.io/Digraphs): Graphs, digraphs, and multidigraphs in GAP
