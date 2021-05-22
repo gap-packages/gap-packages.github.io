@@ -45,6 +45,7 @@ let us know so that we can add them.
 * [IRREDSOL](https://github.com/bh11/irredsol): A library of irreducible soluble linear groups over finite fields and of finite primivite soluble groups
 * [Itest](https://github.com/isadofschi/itest): An implementation of Barmak and Minian's I-test
 * [JupyterViz](https://github.com/nathancarter/jupyterviz): Visualization tools for Jupyter Notebooks using GAP kernels
+* [LINS](https://github.com/FriedrichRober/LINS): computing the normal subgroups of a finitely presented group
 * [MajoranaAlgebras](https://github.com/MWhybrow92/MajoranaAlgebras): A package for constructing Majorana algebras and representations
 * [matgrp](https://github.com/hulpke/matgrp/): Matric Group Interface Routines
 * [Posets](https://github.com/isadofschi/posets): GAP Package for posets and finite spaces
