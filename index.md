@@ -41,6 +41,7 @@ let us know so that we can add them.
 * [The homalg project](https://homalg-project.github.io/) hosts all their projects on GitHub.
   * [List of deposited homalg packages](https://homalg-project.github.io/homalg_project/)
   * Additional homalg packages can be found at the [homalg organization at GitHub](https://github.com/homalg-project)
+* [IncidenceStructures](https://github.com/nagygp/IncidenceStructures): GAP implementation of abstract incidence structures
 * [IRREDSOL](https://github.com/bh11/irredsol): A library of irreducible soluble linear groups over finite fields and of finite primivite soluble groups
 * [Itest](https://github.com/isadofschi/itest): An implementation of Barmak and Minian's I-test
 * [JupyterViz](https://github.com/nathancarter/jupyterviz): Visualization tools for Jupyter Notebooks using GAP kernels
