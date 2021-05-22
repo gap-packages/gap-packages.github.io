@@ -49,6 +49,7 @@ let us know so that we can add them.
 * [MajoranaAlgebras](https://github.com/MWhybrow92/MajoranaAlgebras): A package for constructing Majorana algebras and representations
 * [matgrp](https://github.com/hulpke/matgrp/): Matric Group Interface Routines
 * [Posets](https://github.com/isadofschi/posets): GAP Package for posets and finite spaces
+* [Satisfiability](https://github.com/MathieuDutSik/Satisfiability): functionality to solve satisfiability constraint problems and access to minisat
 * [Semigroups](https://semigroups.github.io/Semigroups): A package for semigroups and monoids
 * [semigroupviz](https://github.com/nathancarter/semigroupviz): Visualization tools for semigroups in GAP
 * [simpcomp](https://github.com/simpcomp-team/simpcomp):  A GAP package for working with simplicial complexes
