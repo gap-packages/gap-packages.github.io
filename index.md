@@ -55,6 +55,7 @@ let us know so that we can add them.
 * [Satisfiability](https://github.com/MathieuDutSik/Satisfiability): functionality to solve satisfiability constraint problems and access to minisat
 * [Semigroups](https://semigroups.github.io/Semigroups): A package for semigroups and monoids
 * [semigroupviz](https://github.com/nathancarter/semigroupviz): Visualization tools for semigroups in GAP
+* [sotgrps](https://github.com/xpan-eileen/sotgrps_gap_pkg): Constructing the Groups of a Given Small Order Type
 * [simpcomp](https://github.com/simpcomp-team/simpcomp):  A GAP package for working with simplicial complexes
 * [SmallCancellation](https://github.com/isadofschi/smallcancellation): Metric and nonmetric small cancellation conditions
 * [transgrp](https://github.com/hulpke/transgrp): GAP Transitive Groups Library
