@@ -28,7 +28,7 @@ let us know so that we can add them.
 </ul>
 
 ### GAP packages hosted elsewhere on GitHub
-* [AssociationSchemes](https://github.com/jesselansdown/AssociationSchemes): A GAP package for working with association schemes and homogeneous coherent configurations
+* [AssociationSchemes](https://jesselansdown.github.io/AssociationSchemes/): A GAP package for working with association schemes and homogeneous coherent configurations
 * [BruhatDecomposition](https://github.com/danielrademacher/BruhatDecomposition2): Computes the Bruhat decomposition of matrices in classical groups
 * [The CAP project](https://homalg-project.github.io/CAP_project/): The GAP package CAP and packages using it
 * [COCO2P](https://github.com/chpech/COCO2P): GAP-package for the computation with coherent configurations
@@ -40,7 +40,7 @@ let us know so that we can add them.
 * [FSR](https://nzidaric.github.io/fsr): Feedback Shift Register Package
 * [G2Comp](https://github.com/isadofschi/g2comp): G2Comp/Equivariant 2-complexes
 * [GAPDoc](https://github.com/frankluebeck/GAPDoc): A package to generate documentation for GAP
-* [Gurobify](https://github.com/jesselansdown/Gurobify): A GAP interface to Gurobi Optimizer
+* [Gurobify](https://jesselansdown.github.io/Gurobify/): A GAP interface to Gurobi Optimizer
 * [The homalg project](https://homalg-project.github.io/) hosts all their projects on GitHub.
   * [List of deposited homalg packages](https://homalg-project.github.io/homalg_project/)
   * Additional homalg packages can be found at the [homalg organization at GitHub](https://github.com/homalg-project)
