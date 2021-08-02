@@ -62,10 +62,6 @@ let us know so that we can add them.
 * [TwistedConjugacy](https://github.com/sTertooy/TwistedConjugacy): Computation with twisted conjugacy classes
 * [YAGS](https://github.com/yags/yags): YAGS - Yet Another Graph System
 
-### GAP packages hosted outside GitHub
-
-* [FinInG](https://bitbucket.org/jdebeule/fining): Finite Incidence Geometry
-
 ---
 
 <small><em>Last updated: {{ 'now' | date: "%Y-%m-%d %H:%M" }}</em></small>
