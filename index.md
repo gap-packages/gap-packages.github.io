@@ -29,6 +29,7 @@ let us know so that we can add them.
 
 ### GAP packages hosted elsewhere on GitHub
 * [AssociationSchemes](https://jesselansdown.github.io/AssociationSchemes/): A GAP package for working with association schemes and homogeneous coherent configurations
+* [BacktrackKit](https://peal.github.io/BacktrackKit): An extensible, easy to understand backtracking framework
 * [BruhatDecomposition](https://github.com/danielrademacher/BruhatDecomposition2): Computes the Bruhat decomposition of matrices in classical groups
 * [The CAP project](https://homalg-project.github.io/CAP_project/): The GAP package CAP and packages using it
 * [COCO2P](https://github.com/chpech/COCO2P): GAP-package for the computation with coherent configurations
@@ -40,6 +41,7 @@ let us know so that we can add them.
 * [FSR](https://nzidaric.github.io/fsr): Feedback Shift Register Package
 * [G2Comp](https://github.com/isadofschi/g2comp): G2Comp/Equivariant 2-complexes
 * [GAPDoc](https://github.com/frankluebeck/GAPDoc): A package to generate documentation for GAP
+* [GraphBacktracking](https://peal.github.io/GraphBacktracking)
 * [Gurobify](https://jesselansdown.github.io/Gurobify/): A GAP interface to Gurobi Optimizer
 * [The homalg project](https://homalg-project.github.io/) hosts all their projects on GitHub.
   * [List of deposited homalg packages](https://homalg-project.github.io/homalg_project/)
@@ -60,6 +62,7 @@ let us know so that we can add them.
 * [SmallCancellation](https://github.com/isadofschi/smallcancellation): Metric and nonmetric small cancellation conditions
 * [transgrp](https://github.com/hulpke/transgrp): GAP Transitive Groups Library
 * [TwistedConjugacy](https://github.com/sTertooy/TwistedConjugacy): Computation with twisted conjugacy classes
+* [Vole](https://peal.github.io/vole): Vole organises lengthy explorations: Backtrack search in permutation groups with graphs
 * [YAGS](https://github.com/yags/yags): YAGS - Yet Another Graph System
 
 ---
