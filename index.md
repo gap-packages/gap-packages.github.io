@@ -41,7 +41,7 @@ let us know so that we can add them.
 * [FSR](https://nzidaric.github.io/fsr): Feedback Shift Register Package
 * [G2Comp](https://github.com/isadofschi/g2comp): G2Comp/Equivariant 2-complexes
 * [GAPDoc](https://github.com/frankluebeck/GAPDoc): A package to generate documentation for GAP
-* [GraphBacktracking](https://peal.github.io/GraphBacktracking)
+* [GraphBacktracking](https://peal.github.io/GraphBacktracking): A simple but slow implementation of graph backtracking
 * [Gurobify](https://jesselansdown.github.io/Gurobify/): A GAP interface to Gurobi Optimizer
 * [The homalg project](https://homalg-project.github.io/) hosts all their projects on GitHub.
   * [List of deposited homalg packages](https://homalg-project.github.io/homalg_project/)
