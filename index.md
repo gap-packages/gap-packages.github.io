@@ -15,6 +15,9 @@ let us know so that we can add them.
 {% if repository.name == "gap-packages.github.io" %}{% continue %}{% endif %}
 {% if repository.name == "happrime" %}{% continue %}{% endif %}
 {% if repository.name == "jupyter-gap" %}{% continue %}{% endif %}
+{% if repository.name == "linboxing" %}{% continue %}{% endif %}
+{% if repository.name == "pargap" %}{% continue %}{% endif %}
+{% if repository.name == "qaos" %}{% continue %}{% endif %}
 {% if repository.name == "recogbase" %}{% continue %}{% endif %}
 <li><a href="{{ repository.html_url }}">{{ repository.name }}</a>{% if repository.homepage %}{% if repository.homepage != "" %} (<a href="{{ repository.homepage }}">Homepage</a>){% endif %}{% endif %}:
 {{ repository.description }}</li>
