@@ -8,6 +8,12 @@ title: "Package listing"
 If you are aware of any GAP package repositories not listed below, please
 let us know so that we can add them.
 
+## GAP packages without public development repositories
+
+* [AtlasRep](http://www.math.rwth-aachen.de/homes/Thomas.Breuer/atlasrep): A GAP Interface to the Atlas of Group Representations
+* [Browse](http://www.math.rwth-aachen.de/homes/Browse): browsing applications and ncurses interface
+* [CTblLib](http://www.math.rwth-aachen.de/homes/Thomas.Breuer/ctbllib): The GAP Character Table Library
+
 ## GAP packages hosted in the gap-packages organization on GitHub
 
 <ul>
