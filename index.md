@@ -31,6 +31,7 @@ let us know so that we can add them.
 * [The CAP project](https://homalg-project.github.io/CAP_project/): The GAP package CAP and packages using it
 * [COCO2P](https://github.com/chpech/COCO2P): GAP-package for the computation with coherent configurations
 * [CRISP](https://github.com/bh11/crisp): GAP package CRISP
+* [difsets](https://github.com/dylanpeifer/difsets) ([Homepage](https://dylanpeifer.github.io/difsets)): A GAP package implementing an algorithm for enumerating all difference sets up to equivalence in a group
 * [Digraphs](https://github.com/digraphs/Digraphs) ([Homepage](https://digraphs.github.io/Digraphs)): Graphs, digraphs, and multidigraphs in GAP
 * [EDIM](https://github.com/frankluebeck/EDIM): Elementary Divisors of Integer Matrices
 * [EigenGap](https://github.com/jesselansdown/EigenGap): Using the Eigen C++ library within GAP
@@ -50,6 +51,7 @@ let us know so that we can add them.
 * [LINS](https://github.com/FriedrichRober/LINS): computing the normal subgroups of a finitely presented group
 * [MajoranaAlgebras](https://github.com/MWhybrow92/MajoranaAlgebras) ([Homepage](https://mwhybrow92.github.io/MajoranaAlgebras)): A package for constructing Majorana algebras and representations
 * [matgrp](https://github.com/hulpke/matgrp) ([Homepage](https://www.math.colostate.edu/~hulpke/matgrp)): Matric Group Interface Routines
+* [NoCK](https://github.com/pjastr/NoCK) ([Homepage](https://pjastr.github.io/NoCK)): NoCK-Package for computing obstruction for the existence of compact Clifford-Klein form
 * [Posets](https://github.com/isadofschi/posets): GAP Package for posets and finite spaces
 * [QuickCheck](https://github.com/ChrisJefferson/QuickCheck): A "QuickCheck" library for the GAP language
 * [Satisfiability](https://github.com/MathieuDutSik/Satisfiability): functionality to solve satisfiability constraint problems and access to minisat
