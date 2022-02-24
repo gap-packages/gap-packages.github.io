@@ -2,14 +2,13 @@
 layout: default
 title: "Package listing"
 ---
+# A list of GAP packages
 
-
-## Links to package repositories
 
 If you are aware of any GAP package repositories not listed below, please
 let us know so that we can add them.
 
-### GAP packages hosted in the gap-packages organization on GitHub
+## GAP packages hosted in the gap-packages organization on GitHub
 
 <ul>
 {% for repository in site.github.public_repositories %}
@@ -22,7 +21,7 @@ let us know so that we can add them.
 {% endfor %}
 </ul>
 
-### GAP packages hosted elsewhere on GitHub
+## GAP packages hosted elsewhere on GitHub
 * [AssociationSchemes](https://github.com/jesselansdown/AssociationSchemes) ([Homepage](https://jesselansdown.github.io/AssociationSchemes)): A GAP package for working with association schemes and homogeneous coherent configurations
 * [BacktrackKit](https://github.com/peal/BacktrackKit) ([Homepage](https://peal.github.io/BacktrackKit)): An extensible, easy to understand backtracking framework
 * [BruhatDecomposition](https://github.com/danielrademacher/BruhatDecomposition2): Computes the Bruhat decomposition of matrices in classical groups
