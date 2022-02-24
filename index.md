@@ -4,23 +4,34 @@ title: "Package listing"
 ---
 # A list of GAP packages
 
+This page lists the websites and/or public development repositories of known GAP packages.
+Please note that **this list may differ from** (and will typically be a superset of)
+[the list of packages on the gap-system.org website](https://www.gap-system.org/Packages/packages.html):
+that webpage shows only those packages included with the most recent GAP release.
 
-If you are aware of any GAP package repositories not listed below, please
-let us know so that we can add them.
+In particular, this page lists some packages that are in early development, or
+that are never intended to be deposited for redistribution with GAP.
 
-## GAP packages without public development repositories
+This list is partially maintained manually, so it may be out of date.
+**If you are aware of any GAP package websites or repositories not listed below,
+then please let us know so that we can include them here.**
+
+Some retired or unmaintained packages have been deliberately omitted from this
+page. This may include those mentioned at the bottom of
+[the list of packages on the gap-system.org website](https://www.gap-system.org/Packages/packages.html).
+
+## Packages without public development repositories
 
 * [AtlasRep](http://www.math.rwth-aachen.de/homes/Thomas.Breuer/atlasrep): A GAP Interface to the Atlas of Group Representations
 * [Browse](http://www.math.rwth-aachen.de/homes/Browse): browsing applications and ncurses interface
 * [CTblLib](http://www.math.rwth-aachen.de/homes/Thomas.Breuer/ctbllib): The GAP Character Table Library
 
-## GAP packages hosted in the gap-packages organization on GitHub
+## Packages hosted in the gap-packages organization on GitHub
 
 <ul>
 {% for repository in site.github.public_repositories %}
 {% if repository.name == "gap-packages.github.io" %}{% continue %}{% endif %}
 {% if repository.name == "happrime" %}{% continue %}{% endif %}
-{% if repository.name == "jupyter-gap" %}{% continue %}{% endif %}
 {% if repository.name == "linboxing" %}{% continue %}{% endif %}
 {% if repository.name == "pargap" %}{% continue %}{% endif %}
 {% if repository.name == "qaos" %}{% continue %}{% endif %}
@@ -30,7 +41,7 @@ let us know so that we can add them.
 {% endfor %}
 </ul>
 
-## GAP packages hosted elsewhere on GitHub
+## Packages hosted elsewhere on GitHub
 * [AssociationSchemes](https://github.com/jesselansdown/AssociationSchemes) ([Homepage](https://jesselansdown.github.io/AssociationSchemes)): A GAP package for working with association schemes and homogeneous coherent configurations
 * [BruhatDecomposition](https://github.com/danielrademacher/BruhatDecomposition2): Computes the Bruhat decomposition of matrices in classical groups
 * [The CAP project](https://homalg-project.github.io/CAP_project/): The GAP package CAP and packages using it
