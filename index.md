@@ -2,12 +2,7 @@
 layout: default
 title: "Package listing"
 ---
-## GAP project links
 
-* [The GAP homepage](https://www.gap-system.org/)
-* The [GAP organization at GitHub](https://github.com/gap-system) and its [website](https://gap-system.github.io).
-* The [GAP packages organization at GitHub](https://github.com/gap-packages)
-* The [GAP organization at BitBucket](https://bitbucket.org/gap-system/)
 
 ## Links to package repositories
 
