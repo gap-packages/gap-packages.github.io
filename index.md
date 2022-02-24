@@ -32,7 +32,6 @@ let us know so that we can add them.
 
 ## GAP packages hosted elsewhere on GitHub
 * [AssociationSchemes](https://github.com/jesselansdown/AssociationSchemes) ([Homepage](https://jesselansdown.github.io/AssociationSchemes)): A GAP package for working with association schemes and homogeneous coherent configurations
-* [BacktrackKit](https://github.com/peal/BacktrackKit) ([Homepage](https://peal.github.io/BacktrackKit)): An extensible, easy to understand backtracking framework
 * [BruhatDecomposition](https://github.com/danielrademacher/BruhatDecomposition2): Computes the Bruhat decomposition of matrices in classical groups
 * [The CAP project](https://homalg-project.github.io/CAP_project/): The GAP package CAP and packages using it
 * [COCO2P](https://github.com/chpech/COCO2P): GAP-package for the computation with coherent configurations
@@ -45,7 +44,6 @@ let us know so that we can add them.
 * [FSR](https://github.com/nzidaric/fsr) ([Homepage](https://nzidaric.github.io/fsr)): Feedback Shift Register Package
 * [G2Comp](https://github.com/isadofschi/g2comp): G2Comp/Equivariant 2-complexes
 * [GAPDoc](https://github.com/frankluebeck/GAPDoc) ([Homepage](http://www.math.rwth-aachen.de/~Frank.Luebeck/GAPDoc/index.html)): A package to generate documentation for GAP
-* [GraphBacktracking](https://github.com/peal/GraphBacktracking) ([Homepage](https://peal.github.io/GraphBacktracking)): A simple but slow implementation of graph backtracking
 * [Gurobify](https://github.com/jesselansdown/Gurobify) ([Homepage](https://jesselansdown.github.io/Gurobify)): A GAP interface to Gurobi Optimizer
 * [The homalg project](https://homalg-project.github.io/) hosts all their projects on GitHub.
   * [List of deposited homalg packages](https://homalg-project.github.io/homalg_project/)
@@ -58,6 +56,10 @@ let us know so that we can add them.
 * [MajoranaAlgebras](https://github.com/MWhybrow92/MajoranaAlgebras) ([Homepage](https://mwhybrow92.github.io/MajoranaAlgebras)): A package for constructing Majorana algebras and representations
 * [matgrp](https://github.com/hulpke/matgrp) ([Homepage](https://www.math.colostate.edu/~hulpke/matgrp)): Matric Group Interface Routines
 * [NoCK](https://github.com/pjastr/NoCK) ([Homepage](https://pjastr.github.io/NoCK)): NoCK-Package for computing obstruction for the existence of compact Clifford-Klein form
+* The [PEAL](https://peal.github.io) organisation has several packages for computing with permutation groups:
+    * [BacktrackKit](https://github.com/peal/BacktrackKit) ([Homepage](https://peal.github.io/BacktrackKit)): An extensible, easy to understand backtracking framework
+    * [GraphBacktracking](https://github.com/peal/GraphBacktracking) ([Homepage](https://peal.github.io/GraphBacktracking)): A simple but slow implementation of graph backtracking
+    * [Vole](https://github.com/peal/vole) ([Homepage](https://peal.github.io/vole)): Vole organises lengthy explorations: Backtrack search in permutation groups with graphs
 * [Posets](https://github.com/isadofschi/posets): GAP Package for posets and finite spaces
 * [QuickCheck](https://github.com/ChrisJefferson/QuickCheck): A "QuickCheck" library for the GAP language
 * [Satisfiability](https://github.com/MathieuDutSik/Satisfiability): functionality to solve satisfiability constraint problems and access to minisat
@@ -68,7 +70,6 @@ let us know so that we can add them.
 * [SmallCancellation](https://github.com/isadofschi/smallcancellation): Metric and nonmetric small cancellation conditions
 * [transgrp](https://github.com/hulpke/transgrp) ([Homepage](https://www.math.colostate.edu/~hulpke/transgrp)): GAP Transitive Groups Library
 * [TwistedConjugacy](https://github.com/sTertooy/TwistedConjugacy) ([Homepage](https://stertooy.github.io/TwistedConjugacy)): Computation with twisted conjugacy classes
-* [Vole](https://github.com/peal/vole) ([Homepage](https://peal.github.io/vole)): Vole organises lengthy explorations: Backtrack search in permutation groups with graphs
 * [YAGS](https://github.com/yags/yags) ([Homepage](http://xamanek.izt.uam.mx/yags)): YAGS - Yet Another Graph System
 
 ---
