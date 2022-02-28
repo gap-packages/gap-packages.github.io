@@ -55,6 +55,7 @@ page. This may include those mentioned at the bottom of
 * [FSR](https://github.com/nzidaric/fsr) ([Homepage](https://nzidaric.github.io/fsr)): Feedback Shift Register Package
 * [G2Comp](https://github.com/isadofschi/g2comp): G2Comp/Equivariant 2-complexes
 * [GAPDoc](https://github.com/frankluebeck/GAPDoc) ([Homepage](http://www.math.rwth-aachen.de/~Frank.Luebeck/GAPDoc/index.html)): A package to generate documentation for GAP
+* [glabella](https://github.com/nagygp/glabella) ([Homepage](https://nagygp.github.io/glabella)): Low level interfaces to graph automorphism and canonical labelling tools
 * [Gurobify](https://github.com/jesselansdown/Gurobify) ([Homepage](https://jesselansdown.github.io/Gurobify)): A GAP interface to Gurobi Optimizer
 * [The homalg project](https://homalg-project.github.io/) hosts all their projects on GitHub.
   * [List of deposited homalg packages](https://homalg-project.github.io/homalg_project/)
