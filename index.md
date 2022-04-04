@@ -67,7 +67,6 @@ page. This may include those mentioned at the bottom of
 * [LINS](https://github.com/FriedrichRober/LINS): computing the normal subgroups of a finitely presented group
 * [MajoranaAlgebras](https://github.com/MWhybrow92/MajoranaAlgebras) ([Homepage](https://mwhybrow92.github.io/MajoranaAlgebras)): A package for constructing Majorana algebras and representations
 * [matgrp](https://github.com/hulpke/matgrp) ([Homepage](https://www.math.colostate.edu/~hulpke/matgrp)): Matric Group Interface Routines
-* [NoCK](https://github.com/pjastr/NoCK) ([Homepage](https://pjastr.github.io/NoCK)): NoCK-Package for computing obstruction for the existence of compact Clifford-Klein form
 * The [PEAL](https://peal.github.io) organisation has several packages for computing with permutation groups:
     * [BacktrackKit](https://github.com/peal/BacktrackKit) ([Homepage](https://peal.github.io/BacktrackKit)): An extensible, easy to understand backtracking framework
     * [GraphBacktracking](https://github.com/peal/GraphBacktracking) ([Homepage](https://peal.github.io/GraphBacktracking)): A simple but slow implementation of graph backtracking
