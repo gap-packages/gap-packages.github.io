@@ -46,6 +46,7 @@ page. This may include those mentioned at the bottom of
 * [BruhatDecomposition](https://github.com/danielrademacher/BruhatDecomposition2): Computes the Bruhat decomposition of matrices in classical groups
 * [The CAP project](https://homalg-project.github.io/CAP_project/): The GAP package CAP and packages using it
 * [COCO2P](https://github.com/chpech/COCO2P): GAP-package for the computation with coherent configurations
+* [CoxIterGAP](https://github.com/rgugliel/CoxIterGAP): Wrapper for the [CoxIter](https://github.com/rgugliel/CoxIter) program designed to compute invariants of hyperbolic Coxeter groups
 * [CRISP](https://github.com/bh11/crisp): GAP package CRISP
 * [difsets](https://github.com/dylanpeifer/difsets) ([Homepage](https://dylanpeifer.github.io/difsets)): A GAP package implementing an algorithm for enumerating all difference sets up to equivalence in a group
 * [Digraphs](https://github.com/digraphs/Digraphs) ([Homepage](https://digraphs.github.io/Digraphs)): Graphs, digraphs, and multidigraphs in GAP
