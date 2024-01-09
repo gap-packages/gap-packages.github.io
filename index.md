@@ -65,14 +65,15 @@ page. This may include those mentioned at the bottom of
 * [IRREDSOL](https://github.com/bh11/irredsol): A library of irreducible soluble linear groups over finite fields and of finite primivite soluble groups
 * [Itest](https://github.com/isadofschi/itest): An implementation of Barmak and Minian's I-test
 * [JupyterViz](https://github.com/nathancarter/jupyterviz) ([Homepage](https://nathancarter.github.io/jupyterviz)): Visualization tools for Jupyter Notebooks using GAP kernels
-* [LINS](https://github.com/FriedrichRober/LINS): computing the normal subgroups of a finitely presented group
-* [MajoranaAlgebras](https://github.com/MWhybrow92/MajoranaAlgebras) ([Homepage](https://mwhybrow92.github.io/MajoranaAlgebras)): A package for constructing Majorana algebras and representations
 * [matgrp](https://github.com/hulpke/matgrp) ([Homepage](https://www.math.colostate.edu/~hulpke/matgrp)): Matric Group Interface Routines
+* [ModularGroup](https://github.com/AG-Weitze-Schmithusen/ModularGroup) ([Homepage](https://ag-weitze-schmithusen.github.io/ModularGroup/)): A collection of algorithms for computing with finite-index subgroups of (P)SL(2,Z).
+* [Origami](https://github.com/AG-Weitze-Schmithusen/Origami) ([Homepage](https://ag-weitze-schmithusen.github.io/Origami/)): A package for computing the Veech group of square-tiled surfaces which are also known as origamis
 * The [PEAL](https://peal.github.io) organisation has several packages for computing with permutation groups:
     * [BacktrackKit](https://github.com/peal/BacktrackKit) ([Homepage](https://peal.github.io/BacktrackKit)): An extensible, easy to understand backtracking framework
     * [GraphBacktracking](https://github.com/peal/GraphBacktracking) ([Homepage](https://peal.github.io/GraphBacktracking)): A simple but slow implementation of graph backtracking
     * [Vole](https://github.com/peal/vole) ([Homepage](https://peal.github.io/vole)): Vole organises lengthy explorations: Backtrack search in permutation groups with graphs
 * [Posets](https://github.com/isadofschi/posets): GAP Package for posets and finite spaces
+* [QDistRnd](https://github.com/QEC-pages/QDistRnd) ([Homepage](https://qec-pages.github.io/QDistRnd/)): Calculate the distance of a q-ary quantum stabilizer code
 * [QuickCheck](https://github.com/ChrisJefferson/QuickCheck): A "QuickCheck" library for the GAP language
 * [Satisfiability](https://github.com/MathieuDutSik/Satisfiability): functionality to solve satisfiability constraint problems and access to minisat
 * [Semigroups](https://github.com/semigroups/Semigroups) ([Homepage](https://semigroups.github.io/Semigroups)): A package for semigroups and monoids
@@ -82,6 +83,7 @@ page. This may include those mentioned at the bottom of
 * [SmallCancellation](https://github.com/isadofschi/smallcancellation): Metric and nonmetric small cancellation conditions
 * [transgrp](https://github.com/hulpke/transgrp) ([Homepage](https://www.math.colostate.edu/~hulpke/transgrp)): GAP Transitive Groups Library
 * [TwistedConjugacy](https://github.com/sTertooy/TwistedConjugacy) ([Homepage](https://stertooy.github.io/TwistedConjugacy)): Computation with twisted conjugacy classes
+* [WPE](https://github.com/FriedrichRober/WPE) ([Homepage](https://friedrichrober.github.io/WPE/)): Efficient methods for working with wreath product elements
 * [YAGS](https://github.com/yags/yags) ([Homepage](http://xamanek.izt.uam.mx/yags)): YAGS - Yet Another Graph System
 
 ---
