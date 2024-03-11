@@ -81,7 +81,6 @@ page. This may include those mentioned at the bottom of
 * [simpcomp](https://github.com/simpcomp-team/simpcomp) ([Homepage](https://simpcomp-team.github.io/simpcomp)):  A GAP package for working with simplicial complexes
 * [SmallCancellation](https://github.com/isadofschi/smallcancellation): Metric and nonmetric small cancellation conditions
 * [SmallClassNr](https://github.com/stertooy/SmallClassNr): Library of finite groups with small class number
-* [sotgrps](https://github.com/xpan-eileen/sotgrps_gap_pkg): Constructing the Groups of a Given Small Order Type
 * [transgrp](https://github.com/hulpke/transgrp) ([Homepage](https://www.math.colostate.edu/~hulpke/transgrp)): GAP Transitive Groups Library
 * [TwistedConjugacy](https://github.com/sTertooy/TwistedConjugacy) ([Homepage](https://stertooy.github.io/TwistedConjugacy)): Computation with twisted conjugacy classes
 * [WPE](https://github.com/FriedrichRober/WPE) ([Homepage](https://friedrichrober.github.io/WPE/)): Efficient methods for working with wreath product elements
