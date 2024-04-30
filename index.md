@@ -24,6 +24,7 @@ to add them here.**
 * [FSR](https://github.com/nzidaric/fsr) ([Homepage](https://nzidaric.github.io/fsr)): Feedback Shift Register Package
 * [G2Comp](https://github.com/isadofschi/g2comp): G2Comp/Equivariant 2-complexes
 * [glabella](https://github.com/nagygp/glabella) ([Homepage](https://nagygp.github.io/glabella)): Low level interfaces to graph automorphism and canonical labelling tools
+* [GRPS1024](https://github.com/davidburrell/GRPS1024) ([Homepage](https://davidburrell.github.io/GRPS1024/)): Library of the groups of order 1024
 * [Gurobify](https://github.com/jesselansdown/Gurobify) ([Homepage](https://jesselansdown.github.io/Gurobify)): A GAP interface to Gurobi Optimizer
 * [IncidenceStructures](https://github.com/nagygp/IncidenceStructures) ([Homepage](https://nagygp.github.io/IncidenceStructures)): GAP implementation of abstract incidence structures
 * [Itest](https://github.com/isadofschi/itest): An implementation of Barmak and Minian's I-test
