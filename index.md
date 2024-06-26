@@ -41,6 +41,7 @@ to add them here.**
 * [SmallCancellation](https://github.com/isadofschi/smallcancellation): Metric and nonmetric small cancellation conditions
 * [SmallClassNr](https://github.com/stertooy/SmallClassNr): Library of finite groups with small class number
 * [TwistedConjugacy](https://github.com/sTertooy/TwistedConjugacy) ([Homepage](https://stertooy.github.io/TwistedConjugacy)): Computation with twisted conjugacy classes
+* [WeylModules](https://github.com/srdoty/WeylModulesNew):  functions for doing computations with Weyl modules in positive characteristic for a simple simply-connected algebraic group
 * [WPE](https://github.com/FriedrichRober/WPE) ([Homepage](https://friedrichrober.github.io/WPE/)): Efficient methods for working with wreath product elements
 * [YAGS](https://github.com/yags/yags) ([Homepage](http://xamanek.izt.uam.mx/yags)): YAGS - Yet Another Graph System
 
