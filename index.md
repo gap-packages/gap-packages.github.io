@@ -2,7 +2,7 @@
 layout: default
 title: "Package listing"
 ---
-The GAP website has a list of [packages distributed with GAP](https://www.gap-system.org/Packages/packages.html).
+The GAP website has a list of [packages distributed with GAP](https://www.gap-system.org/packages/).
 This page is a list of GAP packages which are **not distributed with GAP**.
 
 There are many fine reasons why a package may not be distributed with GAP:
