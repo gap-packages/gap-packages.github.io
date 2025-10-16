@@ -29,6 +29,7 @@ to add them here.**
 * [IncidenceStructures](https://github.com/nagygp/IncidenceStructures) ([Homepage](https://nagygp.github.io/IncidenceStructures)): GAP implementation of abstract incidence structures
 * [Itest](https://github.com/isadofschi/itest): An implementation of Barmak and Minian's I-test
 * [ModularGroup](https://github.com/AG-Weitze-Schmithusen/ModularGroup) ([Homepage](https://ag-weitze-schmithusen.github.io/ModularGroup/)): A collection of algorithms for computing with finite-index subgroups of (P)SL(2,Z).
+* [orders](https://github.com/feisele/orders): A GAP package for computations with orders over the p-adic integers
 * [Origami](https://github.com/AG-Weitze-Schmithusen/Origami) ([Homepage](https://ag-weitze-schmithusen.github.io/Origami/)): A package for computing the Veech group of square-tiled surfaces which are also known as origamis
 * The [PEAL](https://peal.github.io) organisation has several packages for computing with permutation groups:
     * [BacktrackKit](https://github.com/peal/BacktrackKit) ([Homepage](https://peal.github.io/BacktrackKit)): An extensible, easy to understand backtracking framework
