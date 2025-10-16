@@ -215,10 +215,6 @@ title: "Package CI status"
       <td style="text-align: left">float</td>
     </tr>
     <tr>
-      <td style="text-align: right"><a href="https://github.com/gap-packages/foo/actions/workflows/CI.yml"><img src="https://github.com/gap-packages/foo/actions/workflows/CI.yml/badge.svg" alt="CI" /></a></td>
-      <td style="text-align: left">foo</td>
-    </tr>
-    <tr>
       <td style="text-align: right"><a href="https://github.com/gap-packages/format/actions/workflows/CI.yml"><img src="https://github.com/gap-packages/format/actions/workflows/CI.yml/badge.svg" alt="CI" /></a></td>
       <td style="text-align: left">format</td>
     </tr>
