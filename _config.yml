@@ -1,6 +1,3 @@
 title: "GAP packages"
-baseurl: "/"
+baseurl: ""
 url: "https://gap-packages.github.io"
-
-markdown: kramdown
-highlighter: rouge
