@@ -17,9 +17,9 @@ to add them here.**
 
 
 * [AssociationSchemes](https://github.com/jesselansdown/AssociationSchemes) ([Homepage](https://jesselansdown.github.io/AssociationSchemes)): A GAP package for working with association schemes and homogeneous coherent configurations
-* [BruhatDecomposition](https://github.com/danielrademacher/BruhatDecomposition2): Computes the Bruhat decomposition of matrices in classical groups
+* [BruhatDecomposition]([https://github.com/danielrademacher/BruhatDecomposition2](https://github.com/gap-packages/BruhatDecomposition)): Computes the Bruhat decomposition of matrices in classical groups
 * [COCO2P](https://github.com/chpech/COCO2P): GAP-package for the computation with coherent configurations
-* [CoxIterGAP](https://github.com/rgugliel/CoxIterGAP): Wrapper for the [CoxIter](https://github.com/rgugliel/CoxIter) program designed to compute invariants of hyperbolic Coxeter groups
+* [CoxIterGAP]([https://github.com/rgugliel/CoxIterGAP](https://github.com/gap-packages/CoxIterGAP)): Wrapper for the [CoxIter](https://github.com/rgugliel/CoxIter) program designed to compute invariants of hyperbolic Coxeter groups
 * [EigenGap](https://github.com/jesselansdown/EigenGap): Using the Eigen C++ library within GAP
 * [FSR](https://github.com/nzidaric/fsr) ([Homepage](https://nzidaric.github.io/fsr)): Feedback Shift Register Package
 * [G2Comp](https://github.com/isadofschi/g2comp): G2Comp/Equivariant 2-complexes
@@ -42,7 +42,6 @@ to add them here.**
 * [SmallClassNr](https://github.com/stertooy/SmallClassNr): Library of finite groups with small class number
 * [TwistedConjugacy](https://github.com/sTertooy/TwistedConjugacy) ([Homepage](https://stertooy.github.io/TwistedConjugacy)): Computation with twisted conjugacy classes
 * [WeylModules](https://github.com/srdoty/WeylModulesNew) ([Homepage](https://srdoty.github.io/WeylModulesNew/)): Functions for doing computations with Weyl modules in positive characteristic for a simple simply-connected algebraic group
-* [WPE](https://github.com/FriedrichRober/WPE) ([Homepage](https://friedrichrober.github.io/WPE/)): Efficient methods for working with wreath product elements
 * [YAGS](https://github.com/yags/yags) ([Homepage](http://xamanek.izt.uam.mx/yags)): YAGS - Yet Another Graph System
 
 ---
