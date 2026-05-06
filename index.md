@@ -12,7 +12,7 @@ wider redistribution, its authors just didn't feel like, or whatever else.
 This list is only occasional updated and may be out of date. We also do not
 claim that it is complete in any sense. **If you are aware of any GAP package
 websites or repositories not listed below, then feel free to [create a new
-pull a request](https://github.com/gap-packages/gap-packages.github.io/pulls)
+pull a request](https://github.com/gap-packages/gap-packages.github.io/edit/master/index.md)
 to add them here.**
 
 
