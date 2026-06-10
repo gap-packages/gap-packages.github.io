@@ -28,9 +28,7 @@ to add them here.**
 * [Gurobify](https://github.com/jesselansdown/Gurobify) ([Homepage](https://jesselansdown.github.io/Gurobify)): A GAP interface to Gurobi Optimizer
 * [IncidenceStructures](https://github.com/nagygp/IncidenceStructures) ([Homepage](https://nagygp.github.io/IncidenceStructures)): GAP implementation of abstract incidence structures
 * [Itest](https://github.com/isadofschi/itest): An implementation of Barmak and Minian's I-test
-* [ModularGroup](https://github.com/AG-Weitze-Schmithusen/ModularGroup) ([Homepage](https://ag-weitze-schmithusen.github.io/ModularGroup/)): A collection of algorithms for computing with finite-index subgroups of (P)SL(2,Z).
 * [orders](https://github.com/feisele/orders): A GAP package for computations with orders over the p-adic integers
-* [Origami](https://github.com/AG-Weitze-Schmithusen/Origami) ([Homepage](https://ag-weitze-schmithusen.github.io/Origami/)): A package for computing the Veech group of square-tiled surfaces which are also known as origamis
 * [PAG](https://github.com/vkrcadinac/PAG) ([Homepage](https://vkrcadinac.github.io/PAG/)): A GAP package for constructing combinatorial objects with prescribed automorphism groups
 * The [PEAL](https://peal.github.io) organisation has several packages for computing with permutation groups:
     * [BacktrackKit](https://github.com/peal/BacktrackKit) ([Homepage](https://peal.github.io/BacktrackKit)): An extensible, easy to understand backtracking framework
@@ -41,8 +39,6 @@ to add them here.**
 * [Satisfiability](https://github.com/MathieuDutSik/Satisfiability): functionality to solve satisfiability constraint problems and access to minisat
 * [semigroupviz](https://github.com/nathancarter/semigroupviz) ([Homepage](https://nathancarter.github.io/semigroupviz)): Visualization tools for semigroups in GAP
 * [SmallCancellation](https://github.com/isadofschi/smallcancellation): Metric and nonmetric small cancellation conditions
-* [SmallClassNr](https://github.com/stertooy/SmallClassNr): Library of finite groups with small class number
-* [TwistedConjugacy](https://github.com/sTertooy/TwistedConjugacy) ([Homepage](https://stertooy.github.io/TwistedConjugacy)): Computation with twisted conjugacy classes
 * [WeylModules](https://github.com/srdoty/WeylModulesNew) ([Homepage](https://srdoty.github.io/WeylModulesNew/)): Functions for doing computations with Weyl modules in positive characteristic for a simple simply-connected algebraic group
 * [YAGS](https://github.com/yags/yags) ([Homepage](http://xamanek.izt.uam.mx/yags)): YAGS - Yet Another Graph System
 
