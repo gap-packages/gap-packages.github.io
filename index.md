@@ -20,6 +20,7 @@ to add them here.**
 * [BruhatDecomposition](https://github.com/gap-packages/BruhatDecomposition): Computes the Bruhat decomposition of matrices in classical groups
 * [COCO2P](https://github.com/chpech/COCO2P): GAP-package for the computation with coherent configurations
 * [CoxIterGAP](https://github.com/gap-packages/CoxIterGAP): Wrapper for the [CoxIter](https://github.com/rgugliel/CoxIter) program designed to compute invariants of hyperbolic Coxeter groups
+* CTBlocks ([Homepage](https://www.math.rwth-aachen.de/~Thomas.Breuer/ctblocks)): Blocks of Character Tables
 * [EigenGap](https://github.com/jesselansdown/EigenGap): Using the Eigen C++ library within GAP
 * [FSR](https://github.com/nzidaric/fsr) ([Homepage](https://nzidaric.github.io/fsr)): Feedback Shift Register Package
 * [G2Comp](https://github.com/isadofschi/g2comp): G2Comp/Equivariant 2-complexes
