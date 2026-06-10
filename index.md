@@ -18,6 +18,7 @@ to add them here.**
 
 * [AssociationSchemes](https://github.com/jesselansdown/AssociationSchemes) ([Homepage](https://jesselansdown.github.io/AssociationSchemes)): A GAP package for working with association schemes and homogeneous coherent configurations
 * [BruhatDecomposition](https://github.com/gap-packages/BruhatDecomposition): Computes the Bruhat decomposition of matrices in classical groups
+* [Char0Gauss](https://github.com/gap-packages/Char0Gauss): Linear algebra stuff
 * [COCO2P](https://github.com/chpech/COCO2P): GAP-package for the computation with coherent configurations
 * [CompilerForCAP](https://github.com/homalg-project/CAP_project/tree/master/CompilerForCAP) ([Homepage](https://homalg-project.github.io/pkg/CompilerForCAP)): Speed up and verify categorical algorithms
 * [CoxIterGAP](https://github.com/gap-packages/CoxIterGAP): Wrapper for the [CoxIter](https://github.com/rgugliel/CoxIter) program designed to compute invariants of hyperbolic Coxeter groups
