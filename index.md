@@ -30,6 +30,7 @@ to add them here.**
 * IdPGroup ([Homepage](https://www.iaa.tu-bs.de/henschan/so.html)): Identification functions for different p-groups
 * [IncidenceStructures](https://github.com/nagygp/IncidenceStructures) ([Homepage](https://nagygp.github.io/IncidenceStructures)): GAP implementation of abstract incidence structures
 * [Itest](https://github.com/isadofschi/itest): An implementation of Barmak and Minian's I-test
+* [NautyTracesInterface](https://github.com/gap-packages/NautyTracesInterface) ([Homepage](https://gap-packages.github.io/NautyTracesInterface)): An interface to nauty
 * [orders](https://github.com/feisele/orders): A GAP package for computations with orders over the p-adic integers
 * [PAG](https://github.com/vkrcadinac/PAG) ([Homepage](https://vkrcadinac.github.io/PAG/)): A GAP package for constructing combinatorial objects with prescribed automorphism groups
 * The [PEAL](https://peal.github.io) organisation has several packages for computing with permutation groups:
