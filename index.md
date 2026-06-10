@@ -35,7 +35,7 @@ to add them here.**
     * [GraphBacktracking](https://github.com/peal/GraphBacktracking) ([Homepage](https://peal.github.io/GraphBacktracking)): A simple but slow implementation of graph backtracking
     * [Vole](https://github.com/peal/vole) ([Homepage](https://peal.github.io/vole)): Vole organises lengthy explorations: Backtrack search in permutation groups with graphs
 * [Posets](https://github.com/isadofschi/posets): GAP Package for posets and finite spaces
-* [QuickCheck](https://github.com/ChrisJefferson/QuickCheck): A "QuickCheck" library for the GAP language
+* [QuickCheck](https://github.com/ChrisJefferson/QuickCheck) ([Homepage](https://gap-packages.github.io/quickcheck)): A "QuickCheck" library for the GAP language
 * [Satisfiability](https://github.com/MathieuDutSik/Satisfiability): functionality to solve satisfiability constraint problems and access to minisat
 * [semigroupviz](https://github.com/nathancarter/semigroupviz) ([Homepage](https://nathancarter.github.io/semigroupviz)): Visualization tools for semigroups in GAP
 * [SmallCancellation](https://github.com/isadofschi/smallcancellation): Metric and nonmetric small cancellation conditions
