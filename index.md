@@ -45,6 +45,7 @@ to add them here.**
 * [Satisfiability](https://github.com/MathieuDutSik/Satisfiability): functionality to solve satisfiability constraint problems and access to minisat
 * [semigroupviz](https://github.com/nathancarter/semigroupviz) ([Homepage](https://nathancarter.github.io/semigroupviz)): Visualization tools for semigroups in GAP
 * [SmallCancellation](https://github.com/isadofschi/smallcancellation): Metric and nonmetric small cancellation conditions
+* [TopcomInterface](https://github.com/homalg-project/ToricVarieties_project/tree/master/TopcomInterface) ([Homepage](https://homalg-project.github.io/ToricVarieties_project/TopcomInterface)): A package to communicate with the software Topcom
 * [WeylModules](https://github.com/srdoty/WeylModulesNew) ([Homepage](https://srdoty.github.io/WeylModulesNew/)): Functions for doing computations with Weyl modules in positive characteristic for a simple simply-connected algebraic group
 * [YAGS](https://github.com/yags/yags) ([Homepage](http://xamanek.izt.uam.mx/yags)): YAGS - Yet Another Graph System
 
