@@ -29,6 +29,7 @@ to add them here.**
 * [glabella](https://github.com/nagygp/glabella) ([Homepage](https://nagygp.github.io/glabella)): Low level interfaces to graph automorphism and canonical labelling tools
 * [GRPS1024](https://github.com/davidburrell/GRPS1024) ([Homepage](https://davidburrell.github.io/GRPS1024/)): Library of the groups of order 1024
 * [Gurobify](https://github.com/jesselansdown/Gurobify) ([Homepage](https://jesselansdown.github.io/Gurobify)): A GAP interface to Gurobi Optimizer
+* Homology ([Homepage](https://www-ljk.imag.fr/membres/Jean-Guillaume.Dumas/Homology/)): Simplicial Homology Computations
 * IdPGroup ([Homepage](https://www.iaa.tu-bs.de/henschan/so.html)): Identification functions for different p-groups
 * [IncidenceStructures](https://github.com/nagygp/IncidenceStructures) ([Homepage](https://nagygp.github.io/IncidenceStructures)): GAP implementation of abstract incidence structures
 * [Itest](https://github.com/isadofschi/itest): An implementation of Barmak and Minian's I-test
