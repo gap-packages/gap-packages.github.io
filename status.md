@@ -50,11 +50,11 @@ exclusions:
 <div class="two-columns">
 <table>
   <tbody>
-    {%- for p in site.github.public_repositories -%}
+    {%- for repository in site.github.public_repositories -%}
     {%- if page.exclusions contains repository.name -%}{%- continue -%}{%- endif -%}
     <tr>
-      <td style="text-align: right"><a href="https://github.com/gap-packages/{{ p }}/actions/workflows/CI.yml"><img src="https://github.com/gap-packages/{{ p }}/actions/workflows/CI.yml/badge.svg" alt="CI" /></a></td>
-      <td style="text-align: left"><a href="https://github.com/gap-packages/{{ p }}/">{{ p }}</a></td>
+      <td style="text-align: right"><a href="{{ repository.html_url }}/actions/workflows/CI.yml"><img src="{{ repository.html_url }}/actions/workflows/CI.yml/badge.svg" alt="CI" /></a></td>
+      <td style="text-align: left"><a href="{{ repository.html_url }}/">{{ repository.name }}</a></td>
     </tr>
     {%- endfor -%}
   </tbody>
@@ -67,11 +67,11 @@ exclusions:
 <div class="two-columns">
 <table>
   <tbody>
-    {%- for p in site.github.public_repositories -%}
+    {%- for repository in site.github.public_repositories -%}
     {%- if page.exclusions contains repository.name -%}{%- continue -%}{%- endif -%}
     <tr>
-      <td style="text-align: right"><a href="https://github.com/gap-packages/{{ p }}/actions/workflows/docs.yml"><img src="https://github.com/gap-packages/{{ p }}/actions/workflows/docs.yml/badge.svg" alt="CI" /></a></td>
-      <td style="text-align: left"><a href="https://github.com/gap-packages/{{ p }}/">{{ p }}</a></td>
+      <td style="text-align: right"><a href="{{ repository.html_url }}/actions/workflows/docs.yml"><img src="{{ repository.html_url }}/actions/workflows/docs.yml/badge.svg" alt="CI" /></a></td>
+      <td style="text-align: left"><a href="{{ repository.html_url }}/">{{ repository.name }}</a></td>
     </tr>
     {%- endfor -%}
   </tbody>
