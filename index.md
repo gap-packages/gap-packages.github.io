@@ -15,6 +15,9 @@ websites or repositories not listed below, then feel free to [create a new
 pull a request](https://github.com/gap-packages/gap-packages.github.io/edit/master/index.md)
 to add them here.**
 
+For packages hosted in the `gap-packages` GitHub organisation, also see the
+[package status page](/status) for CI, docs, and Codecov badge summaries.
+
 
 * [AssociationSchemes](https://github.com/jesselansdown/AssociationSchemes) ([Homepage](https://jesselansdown.github.io/AssociationSchemes)): A GAP package for working with association schemes and homogeneous coherent configurations
 * [BruhatDecomposition](https://github.com/gap-packages/BruhatDecomposition): Computes the Bruhat decomposition of matrices in classical groups
