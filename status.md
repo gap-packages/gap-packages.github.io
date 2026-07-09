@@ -13,42 +13,9 @@ exclusions:
 
 # Status of GAP packages CI
 
-<style>
-  body {
-    font-family: sans-serif;
-    margin: 2rem;
-  }
-
-  .two-columns {
-    column-count: 2;         /* number of columns */
-    column-gap: 2rem;        /* space between columns */
-    column-rule: 1px solid #ccc;  /* optional dividing line */
-  }
-
-  /* Optional: for responsive behavior */
-  @media (max-width: 600px) {
-    .two-columns {
-      column-count: 1;       /* switch to one column on small screens */
-    }
-  }
-  
-  table {
-    border: 0px;
-  }
-  tr {
-   padding: 5px;
-    border: 0px;
-  }
-  th, td {
-   padding: 5px;
-    border: 0px;
-  }
-</style>
-
-
 ## CI workflows status
 
-<div class="two-columns">
+<div class="status-grid">
 <table>
   <tbody>
     {%- for repository in site.github.public_repositories -%}
@@ -66,7 +33,7 @@ exclusions:
 
 ## Docs workflows status
 
-<div class="two-columns">
+<div class="status-grid">
 <table>
   <tbody>
     {%- for repository in site.github.public_repositories -%}
@@ -84,7 +51,7 @@ exclusions:
 
 ## Code coverage status
 
-<div class="two-columns">
+<div class="status-grid">
 <table>
   <tbody>
     {%- for repository in site.github.public_repositories -%}
