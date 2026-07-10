@@ -11,6 +11,7 @@
   --accent-strong: #dc143c;
   --shadow: 0 8px 20px rgb(39 38 43 / 0.08);
   --content-width: 1120px;
+  --status-badge-width: 6.25rem;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -311,7 +312,7 @@ td img {
 
 .status-grid tr {
   display: grid;
-  grid-template-columns: max-content minmax(0, 1fr);
+  grid-template-columns: var(--status-badge-width) minmax(0, 1fr);
   align-items: center;
   gap: 0.5rem;
   margin-bottom: 0.35rem;
@@ -325,8 +326,14 @@ td img {
 }
 
 .status-grid td:first-child {
+  justify-self: end;
+  width: var(--status-badge-width);
   text-align: right;
   white-space: nowrap;
+}
+
+.status-grid td:last-child {
+  text-align: left;
 }
 
 .status-grid img {
