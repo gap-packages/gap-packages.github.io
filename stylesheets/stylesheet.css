@@ -337,7 +337,12 @@ td img {
 }
 
 .status-grid td:last-child {
+  min-width: 0;
   text-align: left;
+}
+
+.status-grid td:last-child a {
+  overflow-wrap: anywhere;
 }
 
 .status-grid img {
@@ -407,6 +412,10 @@ td img {
 @media (min-width: 1180px) {
   .status-grid {
     column-count: 4;
+  }
+
+  .status-grid-coverage {
+    column-count: 3;
   }
 }
 
