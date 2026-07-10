@@ -300,6 +300,10 @@ td img {
   margin-bottom: 1.5rem;
 }
 
+.status-grid-coverage {
+  --status-badge-width: 10rem;
+}
+
 .status-grid table {
   display: block;
   border: 0;

@@ -51,7 +51,7 @@ exclusions:
 
 ## Code coverage status
 
-<div class="status-grid">
+<div class="status-grid status-grid-coverage">
 <table>
   <tbody>
     {%- for repository in site.github.public_repositories -%}
